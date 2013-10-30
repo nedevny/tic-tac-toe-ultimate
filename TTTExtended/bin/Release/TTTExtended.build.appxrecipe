@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NED-LAPTOP</Machine>
+    <WindowsUser>Nedko</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\TTTExtended.exe">
+      <PackagePath>TTTExtended.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\TTTExtended.pdb">
+      <PackagePath>TTTExtended.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\Callisto.1.3.1\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\GamePage.xaml">
+      <PackagePath>Views\GamePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\HighScoresPage.xaml">
+      <PackagePath>Views\HighScoresPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\HomePage.xaml">
+      <PackagePath>Views\HomePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\LoadGamePage.xaml">
+      <PackagePath>Views\LoadGamePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\MySnappedPage.xaml">
+      <PackagePath>Views\MySnappedPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\PrivacyPolicy.xaml">
+      <PackagePath>Views\PrivacyPolicy.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\Views\SearchResultsPage.xaml">
+      <PackagePath>Views\SearchResultsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\Callisto.1.3.1\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeView.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

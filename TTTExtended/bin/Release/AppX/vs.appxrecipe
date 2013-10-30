@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NED-LAPTOP</Machine>
+    <WindowsUser>Nedko</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>AD18A898D5A754058588FA7EBD52DB0B7B15F7D984875961098047F05D46D0A6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>de6d7dfa-bee3-4b5b-a14f-838e574812ee_1.0.0.0_neutral__cvkvne8wmwhb0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>de6d7dfa-bee3-4b5b-a14f-838e574812ee_cvkvne8wmwhb0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>de6d7dfa-bee3-4b5b-a14f-838e574812ee</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nedko</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T17:31:23.982</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\TTTExtended.exe">
+      <PackagePath>TTTExtended.exe</PackagePath>
+      <Modified>2013-10-08T11:07:26.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\TTTExtended.pdb">
+      <PackagePath>TTTExtended.pdb</PackagePath>
+      <Modified>2013-10-08T11:07:26.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2013-10-03T17:25:28.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.D3DCompiler.2.4.2\lib\win8\SharpDX.D3DCompiler.dll">
+      <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
+      <Modified>2013-10-03T17:58:47.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.Direct2D1.2.4.2\lib\win8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2013-10-03T17:58:48.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.Direct3D11.2.4.2\lib\win8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2013-10-03T17:58:48.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.2.4.2\lib\win8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2013-10-03T17:58:47.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.DXGI.2.4.2\lib\win8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2013-10-03T17:58:48.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.Composition.1.5.3.0\lib\netcore45\WinRTXamlToolkit.Composition.dll">
+      <PackagePath>WinRTXamlToolkit.Composition.dll</PackagePath>
+      <Modified>2013-10-03T17:58:48.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2013-10-03T17:25:52.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\Newtonsoft.Json.5.0.6\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2013-10-03T17:25:28.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.2.4.2\lib\win8\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+      <Modified>2013-10-03T17:58:47.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.D3DCompiler.2.4.2\lib\win8\SharpDX.D3DCompiler.xml">
+      <PackagePath>SharpDX.D3DCompiler.xml</PackagePath>
+      <Modified>2013-10-03T17:58:47.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.Direct2D1.2.4.2\lib\win8\SharpDX.Direct2D1.xml">
+      <PackagePath>SharpDX.Direct2D1.xml</PackagePath>
+      <Modified>2013-10-03T17:58:48.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.Direct3D11.2.4.2\lib\win8\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+      <Modified>2013-10-03T17:58:48.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\SharpDX.DXGI.2.4.2\lib\win8\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+      <Modified>2013-10-03T17:58:48.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T09:10:29.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T09:41:42.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T09:55:26.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T09:49:43.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-05T09:56:33.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-10-03T17:15:48.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-08-14T19:20:15.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-10-03T19:08:28.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\GamePage.xaml">
+      <PackagePath>Views\GamePage.xaml</PackagePath>
+      <Modified>2013-10-05T19:29:48.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\HighScoresPage.xaml">
+      <PackagePath>Views\HighScoresPage.xaml</PackagePath>
+      <Modified>2013-10-05T07:50:10.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\HomePage.xaml">
+      <PackagePath>Views\HomePage.xaml</PackagePath>
+      <Modified>2013-10-05T19:29:48.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\LoadGamePage.xaml">
+      <PackagePath>Views\LoadGamePage.xaml</PackagePath>
+      <Modified>2013-10-04T20:27:02.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\MySnappedPage.xaml">
+      <PackagePath>Views\MySnappedPage.xaml</PackagePath>
+      <Modified>2013-10-05T16:45:23.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\Views\SearchResultsPage.xaml">
+      <PackagePath>Views\SearchResultsPage.xaml</PackagePath>
+      <Modified>2013-08-14T19:15:10.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\AnimatingContainer.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CascadingTextBlock.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CountdownControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeView.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\packages\WinRTXamlToolkit.1.5.3.0\lib\netcore45\WinRTXamlToolkit\Themes\Generic.xaml">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-10-03T17:25:52.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-05T17:31:22.010</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

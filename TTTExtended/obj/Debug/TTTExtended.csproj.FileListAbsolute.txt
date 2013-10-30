@@ -1,0 +1,117 @@
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\App.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\App.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\App.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\TTTExtended.exe
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\TTTExtended.pdb
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\resources.pri
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\AppxManifest.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\TTTExtended.build.appxrecipe
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\TTTExtended.exe
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\TTTExtended.pdb
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\TTTExtended.csproj.GenerateResource.Cache
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\priconfig.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\layout.resfiles
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\resources.resfiles
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\pri.resfiles
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\LanguageQualifiers.txt
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.Composition.dll
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.Composition.pri
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\SharpDX.pri
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\WinRTXamlToolkit.Composition.pri.xml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\TTTExtended.csprojResolveAssemblyReference.cache
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\ScoreBoardPage.g.i.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\ScoreBoardPage.g.cs
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\Views\ScoreBoardPage.xaml
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nedko\Desktop\Extended\TTTExtended\TTTExtended\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\TTTExtended.exe
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\TTTExtended.pdb
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\resources.pri
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\AppxManifest.xml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\TTTExtended.build.appxrecipe
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.dll
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\WinRTXamlToolkit.pri
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\TTTExtended.csprojResolveAssemblyReference.cache
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\App.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\App.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HighScoresPage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HighScoresPage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\MySnappedPage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\MySnappedPage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\App.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\GamePage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HighScoresPage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\HomePage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\LoadGamePage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\MySnappedPage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\SearchResultsPage.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\TTTExtended.exe
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\TTTExtended.pdb
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\TTTExtended.csproj.GenerateResource.Cache
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\priconfig.xml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\layout.resfiles
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\resources.resfiles
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\pri.resfiles
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\LanguageQualifiers.txt
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\WinRTXamlToolkit.pri.xml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\Callisto.dll
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\bin\Debug\Callisto.pri
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\PrivacyPolicy.g.i.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\PrivacyPolicy.g.cs
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Views\PrivacyPolicy.xaml
+C:\Users\Nedko\Desktop\Tic Tac Toe Ultimate\TTTExtended\TTTExtended\obj\Debug\Callisto.pri.xml
